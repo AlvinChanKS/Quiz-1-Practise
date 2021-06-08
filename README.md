@@ -1,8 +1,8 @@
-# Quiz-1-Practise
+# Quiz-1-Practise 
 
-**Bold
+**Bold**
 
-*italic
+*italic*
 
 normal text
 
@@ -19,3 +19,8 @@ return to normal content
 
 ``click me please``
 but with no response
+
+~~strikethrough~~
+
+[] checkbox A
+[x] checkbox B
