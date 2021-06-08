@@ -1,8 +1,8 @@
 # Quiz-1-Practise
 
-** Bold
+**Bold
 
-* italic
+*italic
 
 normal text
 
@@ -11,3 +11,11 @@ normal text
 
 return to normal content
 
+***Bold and italic
+
+[Langara Website](https://langara.ca/)
+
+![https://langara.ca/_files/2019-layout/images/DuoLogo400.svg](https://langara.ca/)
+
+'click me please' 
+but with no response
