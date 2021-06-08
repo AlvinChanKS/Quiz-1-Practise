@@ -15,7 +15,7 @@ return to normal content
 
 [Langara Website](https://langara.ca/)
 
-![https://langara.ca/_files/2019-layout/images/DuoLogo400.svg](https://langara.ca/)
+![Langara Logo](https://langara.ca/_files/2019-layout/images/DuoLogo400.svg)
 
-'click me please' 
+'''click me please'''
 but with no response
