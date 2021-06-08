@@ -15,7 +15,7 @@ return to normal content
 
 [Langara Website](https://langara.ca/)
 
-[![](https://langara.ca/_files/2019-layout/images/DuoLogo400.svg)]
+[![](https://langara.ca/departments/communications-marketing/images/department_box.jpg)]
 
 ``click me please``
 but with no response
