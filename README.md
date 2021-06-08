@@ -11,11 +11,11 @@ normal text
 
 return to normal content
 
-***Bold and italic
+***Bold and italic***
 
 [Langara Website](https://langara.ca/)
 
-![https://langara.ca/_files/2019-layout/images/DuoLogo400.svg]()
+[![]https://langara.ca/_files/2019-layout/images/DuoLogo400.svg]()
 
 ``click me please``
 but with no response
@@ -23,4 +23,5 @@ but with no response
 ~~strikethrough~~
 
 [] checkbox A
+
 [x] checkbox B
